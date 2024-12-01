@@ -1,0 +1,9 @@
+Package: fyi.zxcvbn.nice
+Name: PrettyNiceTweakThere
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: nice
+Author: zxcvbn
+Maintainer: zxcvbn
+Section: Tweaks
+Depends: firmware (>= 10.0)
